@@ -1,0 +1,27 @@
+.likeButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  margin: 20px;
+
+  button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+
+    &:hover {
+      background-color: darkblue;
+    }
+  }
+
+  p {
+    margin-left: 10px;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+  }
+}

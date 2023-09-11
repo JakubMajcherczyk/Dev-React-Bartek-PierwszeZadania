@@ -1,0 +1,54 @@
+{
+  "todoData": [
+    {
+      "id": 1,
+      "name": "Greeting Card",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "name": "User Profile",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "name": "Like Button",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "name": "Todo list item",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "name": "Product list",
+      "completed": false
+    },
+    {
+      "id": 6,
+      "name": "Accordion",
+      "completed": true
+    },
+    {
+      "id": 7,
+      "name": "Comment system",
+      "completed": false
+    },
+    {
+      "id": 8,
+      "name": "Dynamics tabs",
+      "completed": false
+    },
+    {
+      "id": 9,
+      "name": "Theme switcher",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "name": "Advanced comment system with reply",
+      "completed": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.accordionItem {
+  border: 1px solid black;
+  //   max-width: 99vw;
+  cursor: pointer;
+
+  h3 {
+    font-size: 20px;
+    color: white;
+
+    padding-left: 10px;
+  }
+
+  p {
+    font-size: 16px;
+    color: #000;
+    padding: 10px;
+    margin: 0;
+    max-width: 950px;
+  }
+}
+
+.accordion {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}

@@ -1,0 +1,24 @@
+{
+  "accordionData": [
+    {
+      "id": 1,
+      "title": "ReactJS",
+      "content": "ReactJS to biblioteka JavaScript do tworzenia interfejsów użytkownika. Jest oparty na komponentach i pozwala na łatwe tworzenie i zarządzanie stanem aplikacji."
+    },
+    {
+      "id": 2,
+      "title": "Props",
+      "content": "Props to skrót od properties (właściwości) i są to dane przekazywane do komponentów Reacta. Pozwalają na przekazywanie informacji między komponentami i ułatwiają ich ponowne użycie."
+    },
+    {
+      "id": 3,
+      "title": "Hooks",
+      "content": "Hooks to nowa funkcjonalność w React, która pozwala na korzystanie ze stanu i innych funkcjonalności Reacta w komponentach funkcyjnych. Ułatwiają one tworzenie i zarządzanie stanem aplikacji."
+    },
+    {
+      "id": 4,
+      "title": "Components",
+      "content": "Komponenty to podstawowe bloki budulcowe aplikacji React. Pozwalają na dzielenie interfejsu użytkownika na mniejsze, niezależne części, które można łatwo modyfikować i ponownie używać."
+    }
+  ]
+}

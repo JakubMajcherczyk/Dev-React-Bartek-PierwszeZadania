@@ -1,0 +1,49 @@
+{
+  "comments": [
+    {
+      "id": "1",
+      "username": "User1",
+      "text": "Comment 1",
+      "replies": [
+        {
+          "id": "1.1",
+          "username": "User2",
+          "text": "Reply 1.1",
+          "replies": []
+        },
+        {
+          "id": "1.2",
+          "username": "User3",
+          "text": "Reply 1.2",
+          "replies": [
+            {
+              "id": "1.2.1",
+              "username": "User4",
+              "text": "Reply 1.2.1",
+              "replies": []
+            },
+            {
+              "id": "1.2.2",
+              "username": "User4",
+              "text": "Reply 1.2.2",
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "User5",
+      "text": "Comment 2",
+      "replies": [
+        {
+          "id": "2.1",
+          "username": "User6",
+          "text": "Reply 2.1",
+          "replies": []
+        }
+      ]
+    }
+  ]
+}
